@@ -1,0 +1,15 @@
+newrelic:
+  license_key: '<%= license %>'
+  #
+  # Set to '1' for verbose output, remove for normal output.
+  # All output goes to stdout/stderr.
+  #
+  verbose: <%= verbose %>
+
+#
+# Agent Configuration:
+#
+agents:
+  riak:
+    host: <%= fqdn %>
+    port: <%= riak_port %>

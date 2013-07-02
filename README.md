@@ -1,4 +1,13 @@
-puppet-newrelicriak
-===================
+Puppet-newrelicriak
+======================================
 
-Puppet module to configure Riak plugin for new relic
+This is the puppet module for Riak newrelic plugin.
+
+License
+-------
+MIT
+
+Contact
+-------
+Rhommel Lamas roml@rhommell.com
+Twitter: @rhoml
